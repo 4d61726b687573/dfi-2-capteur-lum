@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="F)@jn*_d5kB]vU@{u^[=" x="-167" y="2"></block><block type="device_forever" id="1E:f^zZaZEST]%Z9.6qO" x="0" y="0"></block><block type="device_show_number" id="@=1]McpT{%TiDbus-86Z" disabled="true" x="176" y="-3"><value name="number"><shadow type="math_number" id="qE~_V$gbPi{zI]!FklTk" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="logic_compare" id="x@?tkS~(KAj+[PYlhwy?" disabled="true" x="183" y="68"><field name="OP">EQ</field><value name="A"><shadow type="math_number" id="-!JFoz)ePr!]CQ!f`#k-" disabled="true"><field name="NUM">0</field></shadow></value><value name="B"><shadow type="math_number" id="wo~TU5Z@E$8.MV@Q^y._" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="controls_if" id="9:i8TQjs^m+{::rO^U^]" disabled="true" x="-165" y="118"><value name="IF0"><shadow type="logic_boolean" id="4ZL[|BF]ZKjbK;_0wW4V" disabled="true"><field name="BOOL">TRUE</field></shadow></value></block><block type="device_show_leds" id="o[nHt#|d#izH(1(E?6WV" disabled="true" x="128" y="124"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="device_get_light_level" id="bbsf}7m8lhmg`=_x.d%B" disabled="true" x="-165" y="248"></block><block type="device_clear_display" id="6Icbz(ezm3oy0BJsusO!" disabled="true" x="-163" y="305"></block></xml>
